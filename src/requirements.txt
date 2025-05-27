@@ -1,0 +1,12 @@
+transformers
+pysentimiento
+matplotlib
+torch
+openai
+scikit-learn
+seaborn
+sentence_transformers
+nltk
+protobuf
+sentencepiece
+nlpaug
